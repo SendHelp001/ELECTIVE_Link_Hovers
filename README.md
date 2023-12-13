@@ -1,5 +1,5 @@
-# ElectiveWebsite
+# A single page application website
 
-🔥For a activity
+🔥Featuring a unique hover effect on social links.
 
 ⚔️Using html, css, javascript
